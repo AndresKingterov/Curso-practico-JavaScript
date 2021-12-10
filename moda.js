@@ -24,3 +24,14 @@ lista1.map(
     }
     }
 );
+
+const lista1Array = Object.entries(listaCount).sort(
+    function(valorAcomulado,nuevoValor){
+        return valorAcomulado[1]-nuevoValor[1];
+    }
+);
+
+const moda= lista1Array[lista1Array.length-1]
+
+
+
