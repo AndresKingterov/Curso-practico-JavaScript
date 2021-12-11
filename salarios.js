@@ -1,18 +1,17 @@
-const colombia =[];
-colombia.push(
-    {
+ 
+
+ const colombia =[];
+
+colombia.push({
         name:"Andres", 
         Salary:1000,
 
-    }
-);
-colombia.push(
-    {
+    });
+colombia.push({
         name:"andio", 
         Salary:1200,
 
-    }
-);
+    });
 colombia.push(
     {
         name:"Nath", 
@@ -67,6 +66,92 @@ colombia.push(
     {
         name:"Roncancio", 
         Salary:950,
+
+    }
+);
+colombia.push(
+    {
+        name:"Antonio", 
+        Salary:850,
+
+    }
+);
+colombia.push(
+    {
+        name:"remolin", 
+        Salary:750,
+
+    }
+);
+colombia.push(
+    {
+        name:"ramon", 
+        Salary:800,
+
+    }
+);
+
+colombia.push(
+    {
+        name:"Miriam", 
+        Salary:60000,
+
+    }
+);
+colombia.push(
+    {
+        name:"ana", 
+        Salary:2000,
+
+    }
+);
+colombia.push(
+    {
+        name:"restepo", 
+        Salary:6655,
+
+    }
+);
+colombia.push(
+    {
+        name:"amun", 
+        Salary:840,
+
+    }
+);
+
+colombia.push(
+    {
+        name:"Anamaria", 
+        Salary:60000,
+
+    }
+);
+colombia.push(
+    {
+        name:"paula", 
+        Salary:2000,
+
+    }
+);
+colombia.push(
+    {
+        name:"jose", 
+        Salary:6655,
+
+    }
+);
+colombia.push(
+    {
+        name:"migel", 
+        Salary:200000,
+
+    }
+);
+colombia.push(
+    {
+        name:"ramosose", 
+        Salary:65856,
 
     }
 );
